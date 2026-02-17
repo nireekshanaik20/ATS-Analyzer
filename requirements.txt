@@ -1,0 +1,6 @@
+pdfminer.six
+docx2txt
+nltk
+customtkinter
+packaging
+pillow
